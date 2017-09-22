@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!-- FlightGear Materials File. See Docs/README.materials for details. -->
+
+<PropertyList>
+
+<!-- Base materials -->
+<region include="Materials.CSP/regions/global.xml"/>
+<region include="Materials.CSP/regions/global-summer.xml"/>
+<region include="Materials.CSP/regions/global-winter.xml"/>
+
+<!-- Arctic and Antarctic Regions -->
+<region include="Materials.CSP/regions/arctic.xml"/>
+<region include="Materials.CSP/regions/greenland.xml"/>
+<region include="Materials.CSP/regions/north_atlantic_islands.xml"/>
+
+<!-- North America -->
+<region include="Materials.CSP/regions/alaska.xml"/>
+<region include="Materials.CSP/regions/us_southwest.xml"/> 
+<!--<region include="Materials.CSP/regions/california.xml"/>-->
+<region include="Materials.CSP/regions/sierras.xml"/>
+<region include="Materials.CSP/regions/florida.xml"/>
+
+<!-- South America -->
+<region include="Materials.CSP/regions/tropical_south_america.xml"/>
+<region include="Materials.CSP/regions/latin_american_cities.xml"/>
+<region include="Materials.CSP/regions/ascension.xml"/>
+<region include="Materials.CSP/regions/mexico.xml"/>
+<region include="Materials.CSP/regions/brazil_amazon_forest.xml"/>
+<region include="Materials.CSP/regions/brazil_mata_atlantica.xml"/>
+<region include="Materials.CSP/regions/brazil_manaus.xml"/>
+<region include="Materials.CSP/regions/brazil_cerrado.xml"/>
+<region include="Materials.CSP/regions/brazil_brasilia.xml"/>
+<region include="Materials.CSP/regions/brazil_southern_cerrado.xml"/>
+<region include="Materials.CSP/regions/brazil_pantanal.xml"/>
+<region include="Materials.CSP/regions/brazil_pampas.xml"/>
+<region include="Materials.CSP/regions/brazil_lencois.xml"/>
+<region include="Materials.CSP/regions/brazil_caatinga.xml"/>
+<region include="Materials.CSP/regions/brazil_chapada_diamantina.xml"/>
+<region include="Materials.CSP/regions/caribbean.xml"/>
+
+<!-- Asia -->
+<region include="Materials.CSP/regions/asia.xml"/>
+
+<!-- Pacific-->
+<region include="Materials.CSP/regions/indonesia.xml"/>
+<region include="Materials.CSP/regions/southeast_asia.xml"/>
+<region include="Materials.CSP/regions/hawaii.xml"/>
+<region include="Materials.CSP/regions/oahu.xml"/>
+
+<!-- Africa -->
+<region include="Materials.CSP/regions/africa_savanna.xml"/>
+<region include="Materials.CSP/regions/africa_desert.xml"/>
+<region include="Materials.CSP/regions/africa_rainforest.xml"/>
+<region include="Materials.CSP/regions/africa_mediterranean.xml"/>
+<region include="Materials.CSP/regions/africa_kilimanjaro.xml"/>
+<region include="Materials.CSP/regions/mediterranean_cities.xml"/>
+<region include="Materials.CSP/regions/south_africa.xml"/>
+<region include="Materials.CSP/regions/madagascar.xml"/>
+
+<!-- Europe -->
+<region include="Materials.CSP/regions/europe.xml"/>
+<region include="Materials.CSP/regions/europe-winter.xml"/>
+<region include="Materials.CSP/regions/scandinavia.xml"/>
+<region include="Materials.CSP/regions/united_kingdom.xml"/>
+<region include="Materials.CSP/regions/ireland.xml"/>
+<region include="Materials.CSP/regions/iceland.xml"/>
+<region include="Materials.CSP/regions/norway.xml"/>
+<region include="Materials.CSP/regions/southern_europe.xml"/>
+<region include="Materials.CSP/regions/corse.xml"/>
+
+<!-- Middle East-->
+<region include="Materials.CSP/regions/middle_east.xml"/>
+<region include="Materials.CSP/regions/middle_east_large_cities.xml"/> 
+<region include="Materials.CSP/regions/UAE.xml"/>
+
+<!-- street illumination-->
+<region include="Materials.CSP/regions/large_cities_illumination.xml"/> 
+<region include="Materials.CSP/regions/mega_cities_illumination.xml"/> 
+
+</PropertyList>
